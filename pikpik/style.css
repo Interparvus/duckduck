@@ -1,0 +1,14 @@
+.duck{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+.blood{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    display: none;
+};
